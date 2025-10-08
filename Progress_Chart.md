@@ -1,4 +1,4 @@
-# **📈 My Progress Chart (rating in between 5 out off)**
+# **📈 My Progress Chart (rating in between 4 out off)**
 
 | Days & Months | oct | nov | dec | 2026 | jan | feb | mar | apr | may | jun | jul | aug | sep | oct | nov | dec |
 | ------------- | --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -1,17 +1,24 @@
-# ✅ Final Daily Cyber security Routine(FOR ONLY JULY MONTH)
-| 🕒 Time             | 📌 Activity                                                                 |
-| ------------------- | --------------------------------------------------------------------------- |
-| **4:30 – 5:00 AM**  | 🕌 **Fajr Prayer**                                                          |
-| **5:00 – 5:30 AM**  | 🚿 Freshen Up + Light Breakfast                                             |
-| **5:30 – 6:15 AM**  | 📖 *Art of Exploitation* OR CyberSec Concepts (light learning)              |
-| **6:15 – 6:45 AM**  | 🍽️ Full Breakfast + Ready for Travel                                       |
-| **6:45 – 8:00 AM**  | 🚌 **Bus Travel** → 🎧 Listen to: CyberSec Podcasts / Read Notes / PDF Labs |
-| **8:00 – 5:00 PM**  | 🎓 **College (BCA Cybersecurity)** + 🕌 **Dhuhr Prayer at college**         |
-| **5:00 – 6:20 PM**  | 🚌 **Bus Return** → Watch YT/WebSec videos or revise tools                  |
-| **6:20 – 6:45 PM**  | 🕌 **Asr Prayer** + Light Tea Break                                         |
-| **6:45 – 7:15 PM**  | 🧘‍♂️ Rest / Walk / Disconnect from screen fatigue                          |
-| **7:30 – 8:00 PM**  | 🕌 **Maghrib Prayer**                                                       |
-| **8:00 – 9:00 PM**  | 🎯 CTF (THM/HTB) or WebSec Labs (PortSwigger/Burp)                          |
-| **9:00 – 9:30 PM**  | 🍽️ Dinner                                                                  |
-| **9:30 – 10:15 PM** | 🕌 **Isha Prayer** + Note review / Du’a / Journaling                        |
-| **10:15 – 4:30 AM** | 💤 Sleep (6 hrs 15 mins) – for full energy recovery                         |
+
+
+## **Daily Routine (Prayer-Aligned & Optimized)**
+
+|🕒 Time|📌 Activity|
+|---|---|
+|**5:30 – 6:00 AM**|Wake up + Freshen up|
+|**6:00 – 6:30 AM**|Fajr at Masjid + Du’a|
+|**6:30 – 7:30 AM**|Light study / CyberSec notes / Art of Exploitation|
+|**7:30 – 8:00 AM**|Breakfast + prep for college|
+|**8:00 AM – 2:00 PM**|College + Dhuhr Prayer|
+|**2:00 – 3:00 PM**|Lunch + short rest / walk|
+|**3:00 – 5:00 PM**|Coding / CTF / Bug Hunting (focused session)|
+|**5:00 – 5:20 PM**|Asr Prayer|
+|**5:20 – 6:20 PM**|Workout + Cardio|
+|**6:20 – 6:40 PM**|Maghrib Prayer + light tea / rest|
+|**6:40 – 7:30 PM**|Project / Data Scraping / Labs|
+|**7:30 – 8:00 PM**|Light break / prep for Isha|
+|**8:00 – 8:30 PM**|Isha Prayer|
+|**8:30 – 9:00 PM**|Review notes / journaling / Du’a|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 PM – 5:30 AM**|Sleep (7+ hours)|
+
+---

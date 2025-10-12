@@ -39,10 +39,10 @@
 - Namaz 5 of times.
 - study :-
 	- 2 hours of coding practice and learning.
-		-  this is only after completing phase 2:- `hour of working on project or data scraping`.
+		-  hour of working on project or data scraping.
 	- 1 hour of watching ctfs videos of tj null from ipsec youtube channel.
-		- this is only after completing phase 2:-  `1 hour ctf playing`
-	-  this is only after completing phase 2:- `2 hour of bug hunting`.
+		- 1 hour ctf playing
+	-  2 hour of bug hunting.
 		- 1-2 hour for review notes form last week.
 - workout for. 2 hours.
 	- 1 hour of cardio in railway ground.

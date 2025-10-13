@@ -10,7 +10,7 @@
 |**7:30 – 8:00 AM**|Breakfast + prep for college|
 |**8:00 AM – 2:00 PM**|College + Dhuhr Prayer|
 |**2:00 – 3:00 PM**|Lunch + short rest / walk|
-|**3:00 – 5:00 PM**|Coding / CTF / Bug Hunting (focused session)|
+|**3:00 – 5:00 PM**|CTF / Bug Hunting (focused session)|
 |**5:00 – 5:20 PM**|Asr Prayer|
 |**5:20 – 6:20 PM**|Workout + Cardio|
 |**6:20 – 6:40 PM**|Maghrib Prayer + light tea / rest|

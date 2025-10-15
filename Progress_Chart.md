@@ -50,7 +50,7 @@
 ### **Note** :- 
 	done = ✅
 	 not done = ❎
-
+### this is for only oct
 | Tasks / Days | namaz | study | workout | sleep | ratings |
 | ------------ | ----- | ----- | ------- | ----- | ------- |
 | 1            | ✅     | ❎     | ✅       | ❎     | 2/4     |

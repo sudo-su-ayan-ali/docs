@@ -1,22 +1,140 @@
-## **Daily Routine (Prayer-Aligned & Optimized)**
+# ⚔️ **YEAR-1 DAILY ROUTINE — FULLY CUSTOMIZED TO YOUR ROADMAP**
 
-| 🕒 Time               | 📌 Activity                       |
-| --------------------- | --------------------------------- |
-| **5:30 – 6:00 AM**    | Wake up + Freshen up              |
-| **6:00 – 6:30 AM**    | Fajr at Masjid + Du’a             |
-| **6:30 – 7:30 AM**    | Coding                            |
-| **7:30 – 8:00 AM**    | Breakfast + prep for college      |
-| **8:00 AM – 2:00 PM** | College + Dhuhr Prayer            |
-| **2:00 – 3:00 PM**    | Lunch + short rest / walk         |
-| **3:00 – 5:00 PM**    | Bug Hunting (focused session)     |
-| **5:00 – 5:20 PM**    | Asr Prayer                        |
-| **5:20 – 6:20 PM**    | Workout + Cardio                  |
-| **6:20 – 6:40 PM**    | Maghrib Prayer + light tea / rest |
-| **6:40 – 7:30 PM**    | Project & Data Scraping / CTF     |
-| **7:30 – 8:00 PM**    | Light break / prep for Isha       |
-| **8:00 – 8:30 PM**    | Isha Prayer                       |
-| **8:30 – 9:00 PM**    | Review notes                      |
-| **9:00 – 9:30 PM**    | Dinner                            |
-| **9:30 PM – 5:30 AM** | Sleep (7+ hours)                  |
+This routine auto-matches exactly what you study in each phase:
+
+---
+
+# 🔹 **PHASE 1 (Weeks 1–12) — Linux + Python + Networking**
+
+**Focus:** CLI, Permissions, Bash, Python, Networking, Sockets  
+**Goal:** Build Foundations
+
+|Time|Activity (Phase-1 Custom)|
+|---|---|
+|**5:30 – 6:00 AM**|Wake up + Freshen up|
+|**6:00 – 6:30 AM**|Fajr|
+|**6:30 – 7:30 AM**|**Main Study (Linux/Python/Networking Week Topic)**|
+|**7:30 – 8:00 AM**|Breakfast|
+|**8:00 AM – 2:00 PM**|College + Dhuhr|
+|**2:00 – 3:00 PM**|Lunch + Rest|
+|**3:00 – 4:00 PM**|**Labs (Bandit / Python scripts / Wireshark)**|
+|**4:00 – 5:00 PM**|**Mini Project / Practice (scripts, socket programs)**|
+|**5:00 – 5:20 PM**|Asr|
+|**5:20 – 6:20 PM**|Workout|
+|**6:20 – 6:40 PM**|Maghrib|
+|**6:40 – 7:30 PM**|**Review + Small Coding Task (automation/log parser)**|
+|**7:30 – 8:00 PM**|Break|
+|**8:00 – 8:30 PM**|Isha|
+|**8:30 – 9:00 PM**|**Notes + cheat-sheet update (Linux cmds, Python)**|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 PM – 5:30 AM**|Sleep|
+
+---
+
+# 🔹 **PHASE 2 (Weeks 13–24) — Web Security + OWASP**
+
+**Focus:** XSS, SQLi, IDOR, LFI, Web Labs  
+**Goal:** Attack web apps
+
+|Time|Activity (Phase-2 Custom)|
+|---|---|
+|**5:30 – 6:00 AM**|Wake up|
+|**6:00 – 6:30 AM**|Fajr|
+|**6:30 – 7:30 AM**|**Main Study (OWASP topic of the week)**|
+|**7:30 – 8:00 AM**|Breakfast|
+|**8:00 AM – 2:00 PM**|College|
+|**2:00 – 3:00 PM**|Lunch|
+|**3:00 – 4:00 PM**|**DVWA/bWAPP Lab Session (XSS/SQLi/IDOR)**|
+|**4:00 – 5:00 PM**|**PortSwigger / THM Web Fundamentals**|
+|**5:00 – 5:20 PM**|Asr|
+|**5:20 – 6:20 PM**|Workout|
+|**6:20 – 6:40 PM**|Maghrib|
+|**6:40 – 7:30 PM**|**Exploit Practice (manual payloads, BurpSuite)**|
+|**7:30 – 8:00 PM**|Break|
+|**8:00 – 8:30 PM**|Isha|
+|**8:30 – 9:00 PM**|**Write notes + payload cheat sheets**|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 – 5:30**|Sleep|
+
+---
+
+# 🔹 **PHASE 3 (Weeks 25–36) — Forensics + Cryptography + RE**
+
+**Focus:** strings, binwalk, memory forensics, crypto, Ghidra  
+**Goal:** Analytical mind + CTF skills
+
+|Time|Activity (Phase-3 Custom)|
+|---|---|
+|**5:30 – 6:00 AM**|Wake up|
+|**6:00 – 6:30 AM**|Fajr|
+|**6:30 – 7:30 AM**|**Main Study (Forensics/Crypto/RE Topic)**|
+|**7:30 – 8:00 AM**|Breakfast|
+|**8:00 AM – 2:00 PM**|College|
+|**2:00 – 3:00 PM**|Lunch|
+|**3:00 – 4:00 PM**|**Labs (strings, binwalk, volatility, hashing)**|
+|**4:00 – 5:00 PM**|**CryptoHack / Crackmes.one**|
+|**5:00 – 5:20 PM**|Asr|
+|**5:20 – 6:20 PM**|Workout|
+|**6:20 – 6:40 PM**|Maghrib|
+|**6:40 – 7:30 PM**|**Mini RE/Crypto project (decode scripts, patching)**|
+|**7:30 – 8:00 PM**|Break|
+|**8:00 – 8:30 PM**|Isha|
+|**8:30 – 9:00 PM**|**Daily Summary + forensic notes**|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 – 5:30**|Sleep|
+
+---
+
+# 🔹 **PHASE 4 (Weeks 37–48) — PrivEsc + CTF Prep**
+
+**Focus:** linPEAS, winPEAS, kernel exploits, timed CTF  
+**Goal:** Get fast & dangerous
+
+|Time|Activity (Phase-4 Custom)|
+|---|---|
+|**5:30 – 6:00 AM**|Wake|
+|**6:00 – 6:30 AM**|Fajr|
+|**6:30 – 7:30 AM**|**Main Study (Linux/Windows PrivEsc)**|
+|**7:30 – 8:00 AM**|Breakfast|
+|**8:00 – 2:00 PM**|College|
+|**2:00 – 3:00 PM**|Lunch|
+|**3:00 – 4:00 PM**|**linPEAS / winPEAS lab work**|
+|**4:00 – 5:00 PM**|**CTF practice (Web/RE/Crypto mix)**|
+|**5:00 – 5:20 PM**|Asr|
+|**5:20 – 6:20 PM**|Workout|
+|**6:20 – 6:40 PM**|Maghrib|
+|**6:40 – 7:30 PM**|**Timed CTF challenge (30–45 min)**|
+|**7:30 – 8:00 PM**|Break|
+|**8:00 – 8:30 PM**|Isha|
+|**8:30 – 9:00 PM**|**Notes + PrivEsc cheat sheet**|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 – 5:30**|Sleep|
+
+---
+
+# 🔹 **PHASE 5 (Weeks 49–52) — Git + AI Automation**
+
+**Focus:** GitHub, ML basics, automation scripts  
+**Goal:** Professional polish
+
+|Time|Activity (Phase-5 Custom)|
+|---|---|
+|**5:30 – 6:00 AM**|Wake|
+|**6:00 – 6:30 AM**|Fajr|
+|**6:30 – 7:30 AM**|**Main Study (Git / ML)**|
+|**7:30 – 8:00 AM**|Breakfast|
+|**8:00 – 2:00 PM**|College|
+|**2:00 – 3:00 PM**|Lunch|
+|**3:00 – 4:00 PM**|**GitHub commits / ML lab**|
+|**4:00 – 5:00 PM**|**Automation scripting practice**|
+|**5:00 – 5:20 PM**|Asr|
+|**5:20 – 6:20 PM**|Workout|
+|**6:20 – 6:40 PM**|Maghrib|
+|**6:40 – 7:30 PM**|**Build small ML + security tool**|
+|**7:30 – 8:00 PM**|Break|
+|**8:00 – 8:30 PM**|Isha|
+|**8:30 – 9:00 PM**|Final notes|
+|**9:00 – 9:30 PM**|Dinner|
+|**9:30 – 5:30**|Sleep|
 
 ---

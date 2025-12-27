@@ -9,25 +9,24 @@ This routine auto-matches exactly what you study in each phase:
 **Focus:** CLI, Permissions, Bash, Python, Networking, Sockets  
 **Goal:** Build Foundations
 
-|Time|Activity (Phase-1 Custom)|
-|---|---|
-|**5:30 – 6:00 AM**|Wake up + Freshen up|
-|**6:00 – 6:30 AM**|Fajr|
-|**6:30 – 7:30 AM**|**Main Study (Linux/Python/Networking Week Topic)**|
-|**7:30 – 8:00 AM**|Breakfast|
-|**8:00 AM – 2:00 PM**|College + Dhuhr|
-|**2:00 – 3:00 PM**|Lunch + Rest|
-|**3:00 – 4:00 PM**|**Labs (Bandit / Python scripts / Wireshark)**|
-|**4:00 – 5:00 PM**|**Mini Project / Practice (scripts, socket programs)**|
-|**5:00 – 5:20 PM**|Asr|
-|**5:20 – 6:20 PM**|Workout|
-|**6:20 – 6:40 PM**|Maghrib|
-|**6:40 – 7:30 PM**|**Review + Small Coding Task (automation/log parser)**|
-|**7:30 – 8:00 PM**|Break|
-|**8:00 – 8:30 PM**|Isha|
-|**8:30 – 9:00 PM**|**Notes + cheat-sheet update (Linux cmds, Python)**|
-|**9:00 – 9:30 PM**|Dinner|
-|**9:30 PM – 5:30 AM**|Sleep|
+| Time                   | Activity (Phase-1 Custom)                                                  |
+| ---------------------- | -------------------------------------------------------------------------- |
+| **5:00 – 7:30 AM**     | Wake up + Freshen up & **Main Study (Linux/Python/Networking Week Topic)** |
+| **6:00 – 6:30 AM**     | Fajr                                                                       |
+| **7:30 – 8:15 AM**     | Breakfast & get ready for collage and reach to the bus stop                |
+| **8:15-10:00 AM**      | Travelling and watch YT security videos / use X for news                   |
+| **10:00 AM – 1:00 PM** | College + Dhuhr                                                            |
+| **1:00 – 2:00 AM**     | Lunch + Rest                                                               |
+| **2:00 – 4:00 PM**     | **Labs (Bandit / Python scripts / Wireshark)**                             |
+| **4:00 – 5:00 PM**     | get back to home from collage                                              |
+| **5:00 – 5:30 PM**     | Asr & take a small meal                                                    |
+| **5:30 – 6:00 PM**     | Workout                                                                    |
+| **6:00 – 6:15 PM**     | Maghrib                                                                    |
+| **6:15 – 6:40 PM**     | Workout                                                                    |
+| **8:00 – 9:00 PM**     | **Mini Project / Practice (scripts, socket programs)**                     |
+| **9:00 – 9:30 PM**     | Isha                                                                       |
+| **9:30 –10:00 PM**     | Dinner                                                                     |
+| **10:30 PM – 5:30 AM** | Sleep                                                                      |
 
 ---
 
@@ -36,25 +35,25 @@ This routine auto-matches exactly what you study in each phase:
 **Focus:** XSS, SQLi, IDOR, LFI, Web Labs  
 **Goal:** Attack web apps
 
-|Time|Activity (Phase-2 Custom)|
-|---|---|
-|**5:30 – 6:00 AM**|Wake up|
-|**6:00 – 6:30 AM**|Fajr|
-|**6:30 – 7:30 AM**|**Main Study (OWASP topic of the week)**|
-|**7:30 – 8:00 AM**|Breakfast|
-|**8:00 AM – 2:00 PM**|College|
-|**2:00 – 3:00 PM**|Lunch|
-|**3:00 – 4:00 PM**|**DVWA/bWAPP Lab Session (XSS/SQLi/IDOR)**|
-|**4:00 – 5:00 PM**|**PortSwigger / THM Web Fundamentals**|
-|**5:00 – 5:20 PM**|Asr|
-|**5:20 – 6:20 PM**|Workout|
-|**6:20 – 6:40 PM**|Maghrib|
-|**6:40 – 7:30 PM**|**Exploit Practice (manual payloads, BurpSuite)**|
-|**7:30 – 8:00 PM**|Break|
-|**8:00 – 8:30 PM**|Isha|
-|**8:30 – 9:00 PM**|**Write notes + payload cheat sheets**|
-|**9:00 – 9:30 PM**|Dinner|
-|**9:30 – 5:30**|Sleep|
+| Time                   | Activity (Phase-2 Custom)                                      |
+| ---------------------- | -------------------------------------------------------------- |
+| **5:00 – 7:30 AM**     | Wake up + Freshen up &**Main Study (OWASP topic of the week)** |
+| **6:00 – 6:30 AM**     | Fajr                                                           |
+| **7:30 – 8:15 AM**     | Breakfast & get ready for collage and reach to the bus stop    |
+| **8:15-10:00 AM**      | Travelling and watch YT security videos / use X for news       |
+| **10:00 AM – 1:00 PM** | College + Dhuhr                                                |
+| **1:00 – 2:00 AM**     | **Lunch**                                                      |
+| **2:00 – 4:00 PM**     | **DVWA/bWAPP Lab Session (XSS/SQLi/IDOR)**                     |
+| **4:00 – 5:00 PM**     | **PortSwigger / THM Web Fundamentals**                         |
+| **4:00 – 5:00 PM**     | get back to home from collage                                  |
+| **5:00 – 5:30 PM**     | Asr & take a small meal                                        |
+| **5:30 – 6:00 PM**     | Workout                                                        |
+| **6:00 – 6:15 PM**     | Maghrib                                                        |
+| **6:15 – 6:40 PM**     | Workout                                                        |
+| **8:00 – 9:00 PM**     | **Mini Project / Practice (scripts, socket programs)**         |
+| **9:00 – 9:30 PM**     | Isha                                                           |
+| **9:30 –10:00 PM**     | Dinner                                                         |
+| **10:30 PM – 5:30 AM** | Sleep                                                          |
 
 ---
 
